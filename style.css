@@ -10,7 +10,7 @@ p {
 	font-style: italic;
 	color: red;
 	background-color: blue;
-	max-width: 120px;
+	max-width: 40%;
 	border-radius: 20px;
 	border: 12px green dotted;
 }
